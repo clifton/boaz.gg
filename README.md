@@ -1,3 +1,7 @@
 # boaz.gg
 
-![bo](/img/cabrito_tiny.png?raw=true "cabrito")
+my name is bo
+
+![bo](/img/cabrito-tiny.png?raw=true "cabrito")
+
+who wants to party
